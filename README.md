@@ -16,6 +16,8 @@ Advanced Data Analysis Capstone project
 
 This project explores machine learning models to predict music genres using track features. It employs both supervised (Random Forest, XGBoost, Neural Networks) and unsupervised learning (K-Means, Hierarchical Clustering) techniques. Dimensionality reduction methods (PCA, t-SNE) aid in visualizing data. The study addresses challenges like high dimensionality and class imbalance across 114 genres.
 
+Dataset: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset/data
+
 ## Methodology
 
 - **Data Preprocessing:** Cleaned and normalized data from Kaggle’s Spotify dataset.
